@@ -7,7 +7,9 @@ I've been a developer since 2019 and I love working with web development, I'm cu
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about anything [here](https://github.com/ChrisCorrales/ChrisCorrales/issues)
 
-<img src="./socialmedia.svg" />
+![image](socialmedia.svg)
+
+![alt text](./socialmedia.svg "Title")
 
 #### My Stats
 
