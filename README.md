@@ -9,19 +9,24 @@ I've been a developer since 2019 and I love working with web development, I'm cu
 
 <div class="container">
     <a href="https://codepen.io/ChrisCorrales">
-    <img src="https://logosrated.net/wp-content/uploads/parser/Codepen-Logo-1.png" width="40">
+        <img src="https://img.shields.io/badge/codepen-79ff97?style=for-the-badge&logo=codepen&logoColor=79ff97&labelColor=151515&textColor=red">
     </a>
-    <a style="margin-left: 10px" href="https://www.linkedin.com/in/corraleschristian/">
-        <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="40">
+    <a style="margin-left: 10px" href="https://www.linkedin.com/in/corraleschristian/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-79ff97?style=for-the-badge&logo=linkedin&logoColor=79ff97&labelColor=151515&textColor=red">
     </a>
-    <a style="margin-left: 10px" href="https://www.instagram.com/chriscorrales29/">
-        <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" width="40">
+    <a style="margin-left: 10px" href="https://www.instagram.com/chriscorrales29/" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-79ff97?style=for-the-badge&logo=instagram&logoColor=79ff97&labelColor=151515&textColor=red" >
+    </a>
+    <a style="margin-left: 10px" href="https://medium.com/@chriscorrales" target="_blank">
+        <img src="https://img.shields.io/badge/medium-79ff97?style=for-the-badge&logo=medium&logoColor=79ff97&labelColor=151515&textColor=red" >
+    </a>
+    <a style="margin-left: 10px" href="https://hashnode.com/@ChrisCorrales" target="_blank">
+        <img src="https://img.shields.io/badge/hashnode-79ff97?style=for-the-badge&logo=hashnode&logoColor=79ff97&labelColor=151515&textColor=red" >
     </a>
 </div>
-
 #### My Stats
 
-![Christian Corrales GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscorrales&show_icons=true&theme=graywhite&line_height=25&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscorrales&theme=graywhite&hide=html)](https://github.com/chriscorrales/github-readme-stats)
+![Christian Corrales GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscorrales&show_icons=true&theme=dark&line_height=20v&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscorrales&theme=dark&layout=compact&hide=htm&hide_title=truel)](https://github.com/chriscorrales/github-readme-stats)
 
 <!--
 **ChrisCorrales/ChrisCorrales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
