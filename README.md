@@ -27,7 +27,7 @@ I've been a developer since 2019 and I love working with web development, I'm cu
 
 #### My Stats
 
-![Christian Corrales GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscorrales&show_icons=true&theme=dark&line_height=20v&hide_title=true&&bg_color=0d1117) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscorrales&theme=dark&layout=compact&hide=htm&hide_title=true&bg_color=0d1117)](https://github.com/chriscorrales/github-readme-stats)
+![Christian Corrales GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscorrales&show_icons=true&theme=dark&line_height=20v&hide_title=true&&bg_color=0d1117&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscorrales&theme=dark&layout=compact&hide=htm&hide_title=true&bg_color=0d1117&hide_border=true)
 
 <!--
 **ChrisCorrales/ChrisCorrales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
